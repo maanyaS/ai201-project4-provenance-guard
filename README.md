@@ -285,7 +285,7 @@ python app.py
 
 <div>
     <a href="https://www.loom.com/share/d912b97650274d358c8bef43b089c8a4">
-      <p>Building project guidance - Claude - 1 July 2026 - Watch Video</p>
+      <p>Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/d912b97650274d358c8bef43b089c8a4">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d912b97650274d358c8bef43b089c8a4-0b1b701030111264-full-play.gif#t=0.1">
